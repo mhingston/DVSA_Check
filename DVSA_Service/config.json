@@ -1,0 +1,8 @@
+{
+  "apiUrl": "https://beta.check-mot.service.gov.uk/trade/vehicles/mot-tests?registration={{reg_no}}",
+  "requestHeaders": [
+    {
+      "x-api-key": ""
+    }
+  ]
+}
